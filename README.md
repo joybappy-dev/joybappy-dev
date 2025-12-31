@@ -3,7 +3,7 @@
   <img src="github-header-banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Joy Bappy 👋</h1>
+<h1 align="center">Joy Bappy 👋</h1>
 <p align="center">
   MERN Stack Developer • CS Student @ Nasir Polytechnic Institute • Bangladesh 🇧🇩
 </p>
