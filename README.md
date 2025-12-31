@@ -74,8 +74,6 @@ I enjoy building **user-friendly, minimal web applications**, where **user exper
 ---
 
 ## 🚀 Featured Projects
-> Pin your **top repositories** here from GitHub  
-(E-Tuition, MERN apps, React projects, etc.)
 
 ---
 
