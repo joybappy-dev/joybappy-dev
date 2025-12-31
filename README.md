@@ -79,6 +79,4 @@ I enjoy building **user-friendly, minimal web applications**, where **user exper
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=joybappy-dev&icon=0&color=0" />
-</p>
+
