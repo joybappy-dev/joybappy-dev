@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="Banner" />
+  <img src="github-header-banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Joy Bappy 👋</h1>
